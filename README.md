@@ -1,7 +1,7 @@
 
 # Spoken Languange Identifications
 
-Identify a spoken language using artificial intelligence (LID). The solution uses the convolutional neural network and long short term memory model in order to detect language specific phonemes. It supports 3 languages: English, German and Spanish.
+Identify a spoken language using artificial intelligence (LID). The solution uses the convolutional neural network and long short term memory model (not ready yet) in order to detect language specific phonemes. It supports 3 languages: English, German and Spanish.
 
 # Dataset
 
