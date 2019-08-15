@@ -29,6 +29,6 @@ I use my laptop with specification as follows :
 
 # Demo
 
-All you need to run the script its just download the datasource on your local directory and clone the repository (*include model.h5 & modelLSTM.h5*)
+All you need to run the script its just download the datasource on your local directory and clone the repository (*include model.h5 & modelLSTM.h5*). Run index.ipynb on your local machine
 
 Using python3.6 environtment in jupyter notebook. Don't forget to install several package via pip (*the detail of the packages are listed in scripts*)
